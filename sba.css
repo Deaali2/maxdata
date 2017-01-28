@@ -1,0 +1,17 @@
+a img {
+    border: none;
+    position: relative;
+    width: 100%;
+}
+
+.icon-action {
+    width: 18px;
+    height: 18px;
+}
+
+myCON {
+    display: block;
+    background-color: #dddddd;
+    padding: 50px;
+    font-size: 30px;
+}
